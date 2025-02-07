@@ -1,5 +1,5 @@
 # Starter Web Repo
- Just for demo
+ Just for demo purpose
 ## Introduction
 some more modification
 ## Purpose
